@@ -36,4 +36,6 @@ class SiteController {
     }
 }
 
+//[POST] .body
+
 module.exports = new SiteController();
